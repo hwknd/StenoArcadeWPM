@@ -6,7 +6,7 @@ tested with Python 3.10 and a RTX3070 GPU (GPU not needed, should default to CPU
 
 ## Create a virtual environment in python 
 
-    > python -m venv venv
+    > python -m venv venv 
     > cd venv
     > cd Scripts
     > activate
