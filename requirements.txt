@@ -1,0 +1,6 @@
+# your version of torch
+# torch-2.1.2+cu121-cp310-cp310-win_amd64.whl
+# torchaudio for that version of torch
+# torchaudio==2.1.2
+pydub
+TTS
